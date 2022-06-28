@@ -2324,3 +2324,59 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.28-10.50.50:747][791]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
 [2022.06.28-10.50.50:752][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
 [2022.06.28-10.50.50:799][792]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2022.06.28-10.54.46:249][472]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.06.28-10.54.46:256][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.28-10.54.46:256][472]PIE: New page: PIE session: Level1 (28 giu 2022, 14:54:46)
+[2022.06.28-10.54.46:278][472]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.06.28-10.54.46:285][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006770s)
+[2022.06.28-10.54.46:285][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.007010s)
+[2022.06.28-10.54.46:285][472]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.28-10.54.46:285][472]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.28-10.54.46:285][472]LogAIModule: Creating AISystem for world Level1
+[2022.06.28-10.54.46:286][472]LogPlayLevel: PIE: World Init took: (0.001128s)
+[2022.06.28-10.54.46:321][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.06.28-10.54.46:322][472]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.28-10.54.46:322][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.28-10.54.46:322][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.28-10.54.46:323][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.28-10.54.46:323][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.28-10.54.46:323][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.28-10.54.46:325][472]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.28-10.54.46:363][472]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.06.28-10.54.46:364][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.28-10.54.46:364][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.28-10.54.46:364][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.28-10.54.46:364][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2022.06.28-10.54.46:364][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2022.06.28-10.54.46:366][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2022.06.28-10.54.46:366][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2022.06.28-10.54.46:366][472]LogInit: FAudioDevice initialized.
+[2022.06.28-10.54.46:366][472]LogAudio: Display: Audio Device (ID: 31) registered with world 'Level1'.
+[2022.06.28-10.54.46:382][472]LogLoad: Game class is 'GameModeBase'
+[2022.06.28-10.54.46:383][472]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.06.28-12.54.46
+[2022.06.28-10.54.46:383][472]LogWorld: Bringing up level for play took: 0.000705
+[2022.06.28-10.54.46:385][472]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2022.06.28-10.54.46:386][472]PIE: Server logged in
+[2022.06.28-10.54.46:387][472]PIE: Play in editor total start time 0,132 seconds.
+[2022.06.28-10.55.13:099][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.28-10.55.13:099][446]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.06.28-10.55.13:099][446]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.06.28-10.55.13:099][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.28-10.55.13:106][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.28-10.55.13:110][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.28-10.55.13:139][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.28-10.55.13:140][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.06.28-10.55.13:141][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2022.06.28-10.55.13:147][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.06.28-10.55.13:191][447]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2022.06.28-10.59.44:413][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.06.28-10.59.44:433][942]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level1_Auto1
+[2022.06.28-10.59.44:434][942]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1_Auto1EECFA92D4EEBE45573953CA39967506F.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Autosaves/Game/Level1_Auto1.umap'
+[2022.06.28-10.59.44:441][942]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level1' took 0.064
+[2022.06.28-10.59.44:441][942]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
