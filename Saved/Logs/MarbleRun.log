@@ -2213,3 +2213,38 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.01-20.42.49:586][558]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1B32CEE084FD052565524F3A402CF8FB0.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
 [2022.07.01-20.42.49:608][558]AssetCheck: New page: Asset Save: Level1
 [2022.07.01-20.42.49:609][558]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.44.53:332][794]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.01-20.44.53:463][794]LogUObjectGlobals: Warning: Failed to find object 'Class None.Physics'
+[2022.07.01-20.44.54:571][796]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment'
+[2022.07.01-20.45.09:812][ 81]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment'
+[2022.07.01-20.48.11:037][ 11]SourceControl: fatal: /Script: '/Script' is outside repository at 'E:/Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment'
+[2022.07.01-20.48.59:333][360]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.01-20.48.59:346][360]LogSlate: Window 'Project Settings' being destroyed
+[2022.07.01-20.53.51:831][ 23]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.53.53:729][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.53.53:803][232]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2022.07.01-20.53.53:826][232]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.53.53:826][232]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1DDDA82C646ABB3705F82138FE34BE3C3.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.53.53:839][232]LogFileHelpers: Saving map 'Level1' took 0.110
+[2022.07.01-20.53.53:851][232]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.53.53:851][232]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.53.54:013][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.53.54:061][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.07.01-20.53.54:085][233]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.53.54:086][233]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1A750932E4560715744D053A6211F3F1E.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.53.54:096][233]LogFileHelpers: Saving map 'Level1' took 0.083
+[2022.07.01-20.53.54:108][233]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.53.54:108][233]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.53.54:295][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.53.54:331][234]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.07.01-20.53.54:354][234]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.53.54:354][234]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1E65BE4B143966B8AFC856694B7A9586B.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.53.54:365][234]LogFileHelpers: Saving map 'Level1' took 0.070
+[2022.07.01-20.53.54:377][234]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.53.54:377][234]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.55.18:846][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.55.18:884][926]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.07.01-20.55.18:907][926]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.55.18:908][926]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level16F984160438B65D59ECA9C9994E6D53E.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.55.18:930][926]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.55.18:930][926]LogContentValidation: Display: Validating World /Game/Level1.Level1
