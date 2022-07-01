@@ -1224,3 +1224,992 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.01-20.03.22:321][696]LogDesktopPlatform: Searcing for projects in .uprojectdirs
 [2022.07.01-20.03.22:322][696]LogProjectBrowser: Enumerating Launcher Sample Projects...
 [2022.07.01-20.03.27:882][172]LogSlate: Window 'Open Project' being destroyed
+[2022.07.01-20.05.54:002][388]Cmd: DELETE
+[2022.07.01-20.05.54:002][388]Cmd: ACTOR DELETE
+[2022.07.01-20.05.54:019][388]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.07.01-20.05.54:051][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.01-20.05.54:053][388]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2022.07.01-20.05.56:064][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.05.56:093][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.07.01-20.05.56:113][601]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.05.56:114][601]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1F63098AE4E2F142C0EF511847F074047.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.05.56:137][601]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.05.56:137][601]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.05.56:414][610]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.05.56:444][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2022.07.01-20.05.56:463][610]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.05.56:464][610]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level175767F454198C8250CD098A510F195FB.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.05.56:487][610]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.05.56:487][610]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.07.42:483][842]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.08.28:489][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.08.28:518][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.07.01-20.08.28:538][154]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.08.28:539][154]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level149FFDFF84DF9F2AB5079C88721D1B119.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.08.28:549][154]LogFileHelpers: Saving map 'Level1' took 0.060
+[2022.07.01-20.08.28:559][154]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.08.28:559][154]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.08.28:773][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.08.28:802][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.07.01-20.08.28:821][159]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.08.28:822][159]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1A67E5EF549693A1B9057E48153ED3550.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.08.28:832][159]LogFileHelpers: Saving map 'Level1' took 0.059
+[2022.07.01-20.08.28:843][159]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.08.28:843][159]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.08.29:022][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.08.29:051][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.01-20.08.29:071][161]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.08.29:072][161]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1644042194A1EC14498D9CF8E796A290F.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.08.29:082][161]LogFileHelpers: Saving map 'Level1' took 0.060
+[2022.07.01-20.08.29:091][161]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.08.29:091][161]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.08.30:936][321]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.08.30:942][321]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.08.30:943][321]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.08.31:009][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.01-20.08.31:011][321]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2022.07.01-20.08.31:012][321]PIE: New page: PIE session: Level1 (2 lug 2022, 00:08:31)
+[2022.07.01-20.08.31:039][321]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.08.31:044][321]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004057s)
+[2022.07.01-20.08.31:044][321]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004176s)
+[2022.07.01-20.08.31:044][321]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.08.31:044][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.08.31:044][321]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.08.31:044][321]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2022.07.01-20.08.31:073][321]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.07.01-20.08.31:074][321]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.08.31:074][321]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.08.31:074][321]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.08.31:075][321]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.08.31:075][321]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.08.31:075][321]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.08.31:077][321]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.08.31:109][321]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.08.31:109][321]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.08.31:109][321]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.08.31:109][321]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.08.31:111][321]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.07.01-20.08.31:111][321]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.07.01-20.08.31:112][321]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.07.01-20.08.31:112][321]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.07.01-20.08.31:112][321]LogInit: FAudioDevice initialized.
+[2022.07.01-20.08.31:112][321]LogAudio: Display: Audio Device (ID: 9) registered with world 'Level1'.
+[2022.07.01-20.08.31:125][321]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.08.31:126][321]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.08.31
+[2022.07.01-20.08.31:126][321]LogWorld: Bringing up level for play took: 0.000713
+[2022.07.01-20.08.31:128][321]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2022.07.01-20.08.31:130][321]LogBlueprintUserMessages: [Level1_C_5] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.08.31:131][321]PIE: Server logged in
+[2022.07.01-20.08.31:131][321]PIE: Play in editor total start time 0,189 seconds.
+[2022.07.01-20.08.36:279][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.08.36:279][916]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.08.36:279][916]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.08.36:279][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.08.36:289][916]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.08.36:293][916]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.08.36:322][916]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.08.36:322][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.01-20.08.36:323][916]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.07.01-20.08.36:329][916]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.01-20.08.36:353][917]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.07.01-20.10.51:234][343]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2022.07.01-20.10.51:341][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.10.51:374][343]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.01-20.10.51:395][343]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.10.51:396][343]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1EAE514D446A0636383D1D2BE43EB7B01.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.10.51:406][343]LogFileHelpers: Saving map 'Level1' took 0.066
+[2022.07.01-20.10.51:419][343]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.10.51:419][343]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.12.19:582][500]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.12.23:341][932]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.07.01-20.12.23:346][932]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.13.17:310][224]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.13.17:339][224]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2022.07.01-20.13.17:361][224]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.13.17:362][224]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1D64578694A5A8EBF9BB5E4BF01E949B7.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.13.17:373][224]LogFileHelpers: Saving map 'Level1' took 0.064
+[2022.07.01-20.13.17:384][224]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.13.17:384][224]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.13.17:627][232]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.13.17:657][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2022.07.01-20.13.17:679][232]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.13.17:680][232]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level16CD1ACCF4D4A2C3189303B88F19728CC.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.13.17:690][232]LogFileHelpers: Saving map 'Level1' took 0.063
+[2022.07.01-20.13.17:701][232]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.13.17:701][232]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.13.23:645][848]BlueprintLog: New page: Compile Level1
+[2022.07.01-20.13.23:699][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.01-20.21.43:450][531]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.07:123][837]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.17:344][ 15]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.23:989][742]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.37:615][336]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.46:211][351]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.07.01-20.22.46:215][351]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.22.48:436][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.22.48:469][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2022.07.01-20.22.48:490][596]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.22.48:491][596]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1893184504A2545A9F924A6A5F12ACE3B.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.22.48:502][596]LogFileHelpers: Saving map 'Level1' took 0.066
+[2022.07.01-20.22.48:513][596]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.22.48:513][596]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.22.48:702][601]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.22.48:731][601]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.07.01-20.22.48:751][601]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.22.48:752][601]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level166A8D1DC428A31CF506E36B4E911A9F3.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.22.48:762][601]LogFileHelpers: Saving map 'Level1' took 0.061
+[2022.07.01-20.22.48:772][601]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.22.48:772][601]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.22.48:971][603]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.22.49:000][603]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.07.01-20.22.49:021][603]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.22.49:021][603]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1D5555B744114597A50CA7FAE9A245706.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.22.49:031][603]LogFileHelpers: Saving map 'Level1' took 0.061
+[2022.07.01-20.22.49:041][603]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.22.49:041][603]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.24.30:291][124]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.24.30:298][124]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.24.30:299][124]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.24.30:367][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.07.01-20.24.30:369][124]LogPlayLevel: PlayLevel: Blueprint regeneration took 71 ms (1 blueprints)
+[2022.07.01-20.24.30:369][124]PIE: New page: PIE session: Level1 (2 lug 2022, 00:24:30)
+[2022.07.01-20.24.30:399][124]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.24.30:403][124]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004238s)
+[2022.07.01-20.24.30:403][124]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004359s)
+[2022.07.01-20.24.30:403][124]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.24.30:403][124]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.24.30:404][124]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.24.30:404][124]LogPlayLevel: PIE: World Init took: (0.000793s)
+[2022.07.01-20.24.30:434][124]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.07.01-20.24.30:434][124]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.24.30:434][124]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.24.30:434][124]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.24.30:435][124]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.24.30:435][124]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.24.30:435][124]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.24.30:437][124]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.24.30:469][124]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.24.30:469][124]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.24.30:469][124]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.24.30:469][124]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.24.30:470][124]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2022.07.01-20.24.30:470][124]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2022.07.01-20.24.30:472][124]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2022.07.01-20.24.30:472][124]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2022.07.01-20.24.30:472][124]LogInit: FAudioDevice initialized.
+[2022.07.01-20.24.30:472][124]LogAudio: Display: Audio Device (ID: 10) registered with world 'Level1'.
+[2022.07.01-20.24.30:486][124]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.24.30:487][124]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.24.30
+[2022.07.01-20.24.30:487][124]LogWorld: Bringing up level for play took: 0.000742
+[2022.07.01-20.24.30:489][124]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2022.07.01-20.24.30:490][124]LogBlueprintUserMessages: [Level1_C_7] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.24.30:490][124]PIE: Server logged in
+[2022.07.01-20.24.30:491][124]PIE: Play in editor total start time 0,193 seconds.
+[2022.07.01-20.24.34:379][582]LogBlueprintUserMessages: [Level1_C_7] GG! You've successfully escaped the maze in 4,10 seconds!
+[2022.07.01-20.24.34:595][608]LogBlueprintUserMessages: [Level1_C_7] GG! You've successfully escaped the maze in 4,31 seconds!
+[2022.07.01-20.24.34:818][634]LogBlueprintUserMessages: [Level1_C_7] GG! You've successfully escaped the maze in 4,54 seconds!
+[2022.07.01-20.24.36:279][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.24.36:279][804]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.24.36:279][804]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.24.36:279][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.24.36:287][804]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.24.36:291][804]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.24.36:319][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.24.36:320][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.01-20.24.36:321][804]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2022.07.01-20.24.36:326][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.01-20.24.36:358][805]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2022.07.01-20.25.01:573][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.25.01:578][454]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.25.01:579][454]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.25.01:648][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.07.01-20.25.01:649][454]LogPlayLevel: PlayLevel: Blueprint regeneration took 70 ms (1 blueprints)
+[2022.07.01-20.25.01:649][454]PIE: New page: PIE session: Level1 (2 lug 2022, 00:25:01)
+[2022.07.01-20.25.01:649][454]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.25.01:653][454]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004066s)
+[2022.07.01-20.25.01:653][454]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004145s)
+[2022.07.01-20.25.01:653][454]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.25.01:653][454]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.25.01:653][454]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.25.01:654][454]LogPlayLevel: PIE: World Init took: (0.000783s)
+[2022.07.01-20.25.01:683][454]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.07.01-20.25.01:683][454]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.25.01:683][454]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.25.01:683][454]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.25.01:684][454]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.25.01:684][454]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.25.01:684][454]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.25.01:686][454]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.25.01:716][454]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.25.01:716][454]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.25.01:716][454]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.25.01:716][454]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.25.01:718][454]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.07.01-20.25.01:718][454]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.07.01-20.25.01:719][454]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.07.01-20.25.01:719][454]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.07.01-20.25.01:719][454]LogInit: FAudioDevice initialized.
+[2022.07.01-20.25.01:719][454]LogAudio: Display: Audio Device (ID: 11) registered with world 'Level1'.
+[2022.07.01-20.25.01:764][454]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.25.01:764][454]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.25.01:765][454]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.25.01
+[2022.07.01-20.25.01:765][454]LogWorld: Bringing up level for play took: 0.000955
+[2022.07.01-20.25.01:767][454]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2022.07.01-20.25.01:769][454]LogBlueprintUserMessages: [Level1_C_8] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.25.01:769][454]PIE: Server logged in
+[2022.07.01-20.25.01:770][454]PIE: Play in editor total start time 0,192 seconds.
+[2022.07.01-20.25.01:805][454]LogViewport: Scene viewport resized to 1280x688, mode Windowed.
+[2022.07.01-20.25.05:873][785]LogBlueprintUserMessages: [Level1_C_8] GG! You've successfully escaped the maze in 4,31 seconds!
+[2022.07.01-20.25.07:219][896]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.25.07:219][896]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.25.07:222][896]LogSlate: Window 'MarbleRun Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.07.01-20.25.07:227][896]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.25.07:228][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.25.07:235][896]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.25.07:239][896]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.25.07:268][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.01-20.25.07:270][896]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.07.01-20.25.07:275][896]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.01-20.25.07:297][897]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.07.01-20.25.08:904][ 85]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.25.08:909][ 85]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.25.08:909][ 85]PIE: New page: PIE session: Level1 (2 lug 2022, 00:25:08)
+[2022.07.01-20.25.08:909][ 85]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.25.08:913][ 85]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004394s)
+[2022.07.01-20.25.08:913][ 85]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004485s)
+[2022.07.01-20.25.08:913][ 85]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.25.08:914][ 85]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.25.08:914][ 85]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.25.08:914][ 85]LogPlayLevel: PIE: World Init took: (0.000692s)
+[2022.07.01-20.25.08:943][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.01-20.25.08:943][ 85]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.25.08:944][ 85]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.25.08:944][ 85]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.25.08:944][ 85]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.25.08:944][ 85]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.25.08:944][ 85]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.25.08:946][ 85]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.25.08:978][ 85]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.25.08:978][ 85]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.25.08:978][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.25.08:978][ 85]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.25.08:979][ 85]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2022.07.01-20.25.08:979][ 85]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2022.07.01-20.25.08:980][ 85]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2022.07.01-20.25.08:980][ 85]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2022.07.01-20.25.08:981][ 85]LogInit: FAudioDevice initialized.
+[2022.07.01-20.25.08:981][ 85]LogAudio: Display: Audio Device (ID: 12) registered with world 'Level1'.
+[2022.07.01-20.25.09:037][ 85]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.25.09:037][ 85]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.25.09:038][ 85]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.25.09
+[2022.07.01-20.25.09:038][ 85]LogWorld: Bringing up level for play took: 0.001221
+[2022.07.01-20.25.09:041][ 85]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2022.07.01-20.25.09:042][ 85]LogBlueprintUserMessages: [Level1_C_8] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.25.09:045][ 85]PIE: Server logged in
+[2022.07.01-20.25.09:047][ 85]PIE: Play in editor total start time 0,139 seconds.
+[2022.07.01-20.25.09:054][ 85]LogViewport: Scene viewport resized to 1280x688, mode Windowed.
+[2022.07.01-20.25.12:067][333]LogBlueprintUserMessages: [Level1_C_8] GG! You've successfully escaped the maze in 3,17 seconds!
+[2022.07.01-20.25.14:379][525]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.25.14:379][525]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.25.14:380][525]LogSlate: Window 'MarbleRun Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.07.01-20.25.14:386][525]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.25.14:386][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.25.14:401][525]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.25.14:405][525]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.25.14:434][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.07.01-20.25.14:435][525]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2022.07.01-20.25.14:440][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.07.01-20.25.14:461][526]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2022.07.01-20.29.37:578][778]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.29.37:612][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.07.01-20.29.37:637][778]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.29.37:638][778]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level16594D1324733D8BC7EE14B872AA938B6.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.29.37:661][778]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.29.37:661][778]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.29.37:928][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.29.37:961][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2022.07.01-20.29.37:985][785]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.29.37:985][785]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1B9608BB5407ACF74C20835B8F2C4D9D9.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.29.38:007][785]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.29.38:007][785]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.29.38:746][858]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.29.38:753][858]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.29.38:753][858]PIE: New page: PIE session: Level1 (2 lug 2022, 00:29:38)
+[2022.07.01-20.29.38:753][858]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.29.38:761][858]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007767s)
+[2022.07.01-20.29.38:761][858]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.007909s)
+[2022.07.01-20.29.38:761][858]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.29.38:761][858]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.29.38:761][858]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.29.38:762][858]LogPlayLevel: PIE: World Init took: (0.000801s)
+[2022.07.01-20.29.38:793][858]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.01-20.29.38:793][858]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.07.01-20.29.38:793][858]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.29.38:793][858]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.29.38:793][858]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.29.38:794][858]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.29.38:794][858]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.29.38:794][858]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.29.38:794][858]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.29.38:794][858]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.29.38:794][858]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.29.38:794][858]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.29.38:794][858]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.29.38:796][858]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.29.38:839][858]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.29.38:839][858]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.29.38:839][858]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.29.38:839][858]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.29.38:840][858]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2022.07.01-20.29.38:840][858]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2022.07.01-20.29.38:842][858]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2022.07.01-20.29.38:842][858]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2022.07.01-20.29.38:842][858]LogInit: FAudioDevice initialized.
+[2022.07.01-20.29.38:842][858]LogAudio: Display: Audio Device (ID: 13) registered with world 'Level1'.
+[2022.07.01-20.29.38:858][858]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.29.38:858][858]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.29.38
+[2022.07.01-20.29.38:858][858]LogWorld: Bringing up level for play took: 0.000634
+[2022.07.01-20.29.38:860][858]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2022.07.01-20.29.38:861][858]LogBlueprintUserMessages: [Level1_C_8] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.29.38:861][858]PIE: Server logged in
+[2022.07.01-20.29.38:862][858]PIE: Play in editor total start time 0,11 seconds.
+[2022.07.01-20.29.52:219][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.29.52:219][409]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.29.52:219][409]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.29.52:219][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.29.52:233][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.29.52:236][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.29.52:266][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.29.52:266][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.07.01-20.29.52:268][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2022.07.01-20.29.52:274][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.07.01-20.29.52:309][410]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.07.01-20.34.20:980][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.34.21:016][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.07.01-20.34.21:039][846]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.34.21:040][846]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level18F4B892C485148A906850B88A5D7AA54.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.34.21:051][846]LogFileHelpers: Saving map 'Level1' took 0.071
+[2022.07.01-20.34.21:062][846]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.34.21:062][846]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.34.21:330][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.34.21:361][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.07.01-20.34.21:384][855]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.34.21:385][855]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level190CCC7B1432BF9A4E951C2A69E6E30B2.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.34.21:395][855]LogFileHelpers: Saving map 'Level1' took 0.066
+[2022.07.01-20.34.21:408][855]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.34.21:408][855]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.34.23:061][ 10]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.34.23:068][ 10]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.34.23:069][ 10]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.34.23:143][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.01-20.34.23:145][ 10]LogPlayLevel: PlayLevel: Blueprint regeneration took 77 ms (1 blueprints)
+[2022.07.01-20.34.23:145][ 10]PIE: New page: PIE session: Level1 (2 lug 2022, 00:34:23)
+[2022.07.01-20.34.23:169][ 10]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.34.23:173][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004139s)
+[2022.07.01-20.34.23:173][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004258s)
+[2022.07.01-20.34.23:173][ 10]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.34.23:173][ 10]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.34.23:174][ 10]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.34.23:174][ 10]LogPlayLevel: PIE: World Init took: (0.000792s)
+[2022.07.01-20.34.23:203][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.07.01-20.34.23:204][ 10]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.34.23:204][ 10]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.34.23:204][ 10]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.34.23:205][ 10]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.34.23:205][ 10]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.34.23:205][ 10]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.34.23:207][ 10]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.34.23:242][ 10]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.34.23:243][ 10]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.34.23:243][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.34.23:243][ 10]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.34.23:244][ 10]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2022.07.01-20.34.23:244][ 10]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2022.07.01-20.34.23:246][ 10]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2022.07.01-20.34.23:246][ 10]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2022.07.01-20.34.23:246][ 10]LogInit: FAudioDevice initialized.
+[2022.07.01-20.34.23:246][ 10]LogAudio: Display: Audio Device (ID: 14) registered with world 'Level1'.
+[2022.07.01-20.34.23:258][ 10]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.34.23:258][ 10]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.34.23
+[2022.07.01-20.34.23:259][ 10]LogWorld: Bringing up level for play took: 0.000667
+[2022.07.01-20.34.23:260][ 10]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2022.07.01-20.34.23:261][ 10]LogBlueprintUserMessages: [Level1_C_9] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.34.23:261][ 10]PIE: Server logged in
+[2022.07.01-20.34.23:262][ 10]PIE: Play in editor total start time 0,195 seconds.
+[2022.07.01-20.34.31:669][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.34.31:669][991]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.34.31:669][991]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.34.31:669][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.34.31:683][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.34.31:687][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.34.31:716][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.34.31:716][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.07.01-20.34.31:717][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2022.07.01-20.34.31:722][991]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.01-20.34.31:755][992]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.07.01-20.34.33:125][127]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.34.33:131][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.34.33:131][127]PIE: New page: PIE session: Level1 (2 lug 2022, 00:34:33)
+[2022.07.01-20.34.33:132][127]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.34.33:137][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005439s)
+[2022.07.01-20.34.33:137][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005575s)
+[2022.07.01-20.34.33:137][127]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.34.33:137][127]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.34.33:138][127]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.34.33:138][127]LogPlayLevel: PIE: World Init took: (0.001047s)
+[2022.07.01-20.34.33:169][127]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.07.01-20.34.33:171][127]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.34.33:171][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.34.33:171][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.34.33:172][127]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.34.33:172][127]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.34.33:172][127]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.34.33:173][127]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.34.33:209][127]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.34.33:210][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.34.33:210][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.34.33:210][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.34.33:211][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2022.07.01-20.34.33:211][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2022.07.01-20.34.33:213][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2022.07.01-20.34.33:213][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2022.07.01-20.34.33:213][127]LogInit: FAudioDevice initialized.
+[2022.07.01-20.34.33:213][127]LogAudio: Display: Audio Device (ID: 15) registered with world 'Level1'.
+[2022.07.01-20.34.33:222][127]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.34.33:223][127]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.34.33
+[2022.07.01-20.34.33:223][127]LogWorld: Bringing up level for play took: 0.000682
+[2022.07.01-20.34.33:225][127]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2022.07.01-20.34.33:226][127]LogBlueprintUserMessages: [Level1_C_9] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.34.33:226][127]PIE: Server logged in
+[2022.07.01-20.34.33:226][127]PIE: Play in editor total start time 0,095 seconds.
+[2022.07.01-20.34.43:349][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.34.43:349][301]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.34.43:349][301]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.34.43:349][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.34.43:356][301]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.34.43:360][301]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.34.43:388][301]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.34.43:389][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.07.01-20.34.43:390][301]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2022.07.01-20.34.43:393][301]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.34.43:396][301]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.07.01-20.34.43:428][302]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.07.01-20.35.15:877][887]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::FClamp' [Impossibile trovare elemento.]
+[2022.07.01-20.35.17:096][972]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::FClamp' [Impossibile trovare il modulo specificato.]
+[2022.07.01-20.35.21:516][427]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.35.21:549][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.01-20.35.21:574][427]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.35.21:574][427]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1293265CB42A8FAA424776EA65697A170.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.35.21:585][427]LogFileHelpers: Saving map 'Level1' took 0.070
+[2022.07.01-20.35.21:597][427]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.35.21:597][427]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.35.21:817][431]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.35.21:847][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.01-20.35.21:871][431]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.35.21:871][431]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1382513C847055E951A65C0A49E93E7CD.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.35.21:882][431]LogFileHelpers: Saving map 'Level1' took 0.065
+[2022.07.01-20.35.21:893][431]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.35.21:893][431]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.35.23:372][562]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.35.23:379][562]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.35.23:380][562]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.35.23:456][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.07.01-20.35.23:458][562]LogPlayLevel: PlayLevel: Blueprint regeneration took 79 ms (1 blueprints)
+[2022.07.01-20.35.23:458][562]PIE: New page: PIE session: Level1 (2 lug 2022, 00:35:23)
+[2022.07.01-20.35.23:479][562]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.35.23:483][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004179s)
+[2022.07.01-20.35.23:483][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004291s)
+[2022.07.01-20.35.23:483][562]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.35.23:483][562]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.35.23:484][562]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.35.23:484][562]LogPlayLevel: PIE: World Init took: (0.000702s)
+[2022.07.01-20.35.23:514][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.07.01-20.35.23:514][562]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.35.23:514][562]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.35.23:515][562]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.35.23:515][562]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.35.23:515][562]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.35.23:515][562]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.35.23:517][562]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.35.23:551][562]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.35.23:552][562]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.35.23:552][562]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.35.23:552][562]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.35.23:553][562]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2022.07.01-20.35.23:553][562]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2022.07.01-20.35.23:555][562]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2022.07.01-20.35.23:555][562]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2022.07.01-20.35.23:555][562]LogInit: FAudioDevice initialized.
+[2022.07.01-20.35.23:555][562]LogAudio: Display: Audio Device (ID: 16) registered with world 'Level1'.
+[2022.07.01-20.35.23:567][562]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.35.23:567][562]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.35.23
+[2022.07.01-20.35.23:568][562]LogWorld: Bringing up level for play took: 0.000645
+[2022.07.01-20.35.23:569][562]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2022.07.01-20.35.23:570][562]LogBlueprintUserMessages: [Level1_C_10] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.35.23:570][562]PIE: Server logged in
+[2022.07.01-20.35.23:571][562]PIE: Play in editor total start time 0,193 seconds.
+[2022.07.01-20.35.36:249][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.35.36:249][ 46]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.35.36:249][ 46]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.35.36:249][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.35.36:264][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.35.36:267][ 46]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.35.36:297][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.35.36:297][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.07.01-20.35.36:298][ 46]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2022.07.01-20.35.36:304][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.01-20.35.36:339][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.07.01-20.35.37:248][135]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.35.37:256][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.35.37:256][135]PIE: New page: PIE session: Level1 (2 lug 2022, 00:35:37)
+[2022.07.01-20.35.37:279][135]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.35.37:283][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004512s)
+[2022.07.01-20.35.37:283][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004652s)
+[2022.07.01-20.35.37:284][135]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.35.37:284][135]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.35.37:284][135]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.35.37:284][135]LogPlayLevel: PIE: World Init took: (0.000778s)
+[2022.07.01-20.35.37:314][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.01-20.35.37:315][135]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.07.01-20.35.37:315][135]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.35.37:315][135]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.35.37:315][135]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.35.37:315][135]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.35.37:315][135]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.35.37:316][135]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.35.37:316][135]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.35.37:316][135]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.35.37:316][135]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.35.37:316][135]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.35.37:316][135]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.35.37:318][135]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.35.37:353][135]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.35.37:354][135]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.35.37:354][135]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.35.37:354][135]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.35.37:355][135]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2022.07.01-20.35.37:355][135]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2022.07.01-20.35.37:357][135]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2022.07.01-20.35.37:357][135]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2022.07.01-20.35.37:357][135]LogInit: FAudioDevice initialized.
+[2022.07.01-20.35.37:357][135]LogAudio: Display: Audio Device (ID: 17) registered with world 'Level1'.
+[2022.07.01-20.35.37:369][135]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.35.37:370][135]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.35.37
+[2022.07.01-20.35.37:370][135]LogWorld: Bringing up level for play took: 0.000692
+[2022.07.01-20.35.37:372][135]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2022.07.01-20.35.37:373][135]LogBlueprintUserMessages: [Level1_C_10] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.35.37:373][135]PIE: Server logged in
+[2022.07.01-20.35.37:373][135]PIE: Play in editor total start time 0,118 seconds.
+[2022.07.01-20.35.50:199][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.35.50:199][624]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.35.50:199][624]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.35.50:200][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.35.50:214][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.35.50:217][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.35.50:247][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.35.50:247][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.07.01-20.35.50:249][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2022.07.01-20.35.50:254][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.01-20.35.50:287][625]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.07.01-20.36.04:858][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.36.04:889][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.01-20.36.04:913][292]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.36.04:913][292]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1AD7EE10B48350B90B9EB0CADA87563D8.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.36.04:924][292]LogFileHelpers: Saving map 'Level1' took 0.067
+[2022.07.01-20.36.04:941][292]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.36.04:941][292]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.36.05:144][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.36.05:173][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.01-20.36.05:197][294]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.36.05:197][294]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level118AFB1CC4182172EA7E3BEBC0D8A6894.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.36.05:208][294]LogFileHelpers: Saving map 'Level1' took 0.065
+[2022.07.01-20.36.05:220][294]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.36.05:220][294]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.36.05:576][317]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.36.05:607][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2022.07.01-20.36.05:630][317]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.36.05:631][317]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level18748AC7244218B309B119F88E052F29F.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.36.05:642][317]LogFileHelpers: Saving map 'Level1' took 0.065
+[2022.07.01-20.36.05:653][317]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.36.05:653][317]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.36.06:559][384]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.36.06:566][384]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.36.06:567][384]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.36.06:642][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.07.01-20.36.06:645][384]LogPlayLevel: PlayLevel: Blueprint regeneration took 78 ms (1 blueprints)
+[2022.07.01-20.36.06:645][384]PIE: New page: PIE session: Level1 (2 lug 2022, 00:36:06)
+[2022.07.01-20.36.06:678][384]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.36.06:683][384]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004335s)
+[2022.07.01-20.36.06:683][384]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004459s)
+[2022.07.01-20.36.06:683][384]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.36.06:683][384]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.36.06:683][384]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.36.06:683][384]LogPlayLevel: PIE: World Init took: (0.000811s)
+[2022.07.01-20.36.06:714][384]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.01-20.36.06:714][384]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.36.06:714][384]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.36.06:715][384]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.36.06:715][384]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.36.06:715][384]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.36.06:715][384]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.36.06:715][384]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.36.06:717][384]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.36.06:753][384]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.36.06:753][384]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.36.06:753][384]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.36.06:753][384]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.36.06:754][384]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2022.07.01-20.36.06:754][384]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2022.07.01-20.36.06:756][384]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2022.07.01-20.36.06:756][384]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2022.07.01-20.36.06:756][384]LogInit: FAudioDevice initialized.
+[2022.07.01-20.36.06:756][384]LogAudio: Display: Audio Device (ID: 18) registered with world 'Level1'.
+[2022.07.01-20.36.06:770][384]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.36.06:771][384]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.36.06
+[2022.07.01-20.36.06:771][384]LogWorld: Bringing up level for play took: 0.000656
+[2022.07.01-20.36.06:772][384]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2022.07.01-20.36.06:773][384]LogBlueprintUserMessages: [Level1_C_11] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.36.06:774][384]PIE: Server logged in
+[2022.07.01-20.36.06:774][384]PIE: Play in editor total start time 0,209 seconds.
+[2022.07.01-20.36.23:758][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.36.23:759][363]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.36.23:759][363]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.36.23:759][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.36.23:771][363]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.36.23:775][363]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.36.23:805][363]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.36.23:805][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.07.01-20.36.23:807][363]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2022.07.01-20.36.23:812][363]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.07.01-20.36.23:848][364]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.07.01-20.36.25:654][550]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.36.25:684][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2022.07.01-20.36.25:708][550]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.36.25:709][550]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1BBA82278458490E8F9B4B0A00E237833.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.36.25:732][550]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.36.25:732][550]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.38.14:281][482]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2022.07.01-20.38.14:284][482]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.38.27:007][941]LogSlate: Window 'Color Picker' being destroyed
+[2022.07.01-20.38.31:630][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.38.31:661][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.07.01-20.38.31:685][474]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.38.31:685][474]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level10DE358D04AD3917FBE8F3A9A04D3090A.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.38.31:696][474]LogFileHelpers: Saving map 'Level1' took 0.068
+[2022.07.01-20.38.31:710][474]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.38.31:710][474]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.38.31:913][476]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.38.31:943][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2022.07.01-20.38.31:967][476]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.38.31:968][476]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1F3D5790545D95249F77BBCBF050D4405.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.38.31:978][476]LogFileHelpers: Saving map 'Level1' took 0.065
+[2022.07.01-20.38.31:990][476]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.38.31:990][476]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2022.07.01-20.38.33:097][571]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.38.33:104][571]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.07.01-20.38.33:105][571]LogPlayLevel: [PlayLevel] Compiling Level1 before play...
+[2022.07.01-20.38.33:185][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.01-20.38.33:188][571]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2022.07.01-20.38.33:188][571]PIE: New page: PIE session: Level1 (2 lug 2022, 00:38:33)
+[2022.07.01-20.38.33:219][571]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.33:224][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004277s)
+[2022.07.01-20.38.33:224][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004399s)
+[2022.07.01-20.38.33:224][571]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.38.33:224][571]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.38.33:224][571]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.38.33:224][571]LogPlayLevel: PIE: World Init took: (0.000705s)
+[2022.07.01-20.38.33:255][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.07.01-20.38.33:255][571]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.38.33:255][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.38.33:255][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.38.33:256][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.38.33:256][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.38.33:256][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.38.33:258][571]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.38.33:293][571]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.38.33:293][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.38.33:293][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.38.33:293][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.38.33:294][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2022.07.01-20.38.33:294][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2022.07.01-20.38.33:296][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2022.07.01-20.38.33:296][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2022.07.01-20.38.33:296][571]LogInit: FAudioDevice initialized.
+[2022.07.01-20.38.33:296][571]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2022.07.01-20.38.33:309][571]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.38.33:310][571]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.38.33
+[2022.07.01-20.38.33:310][571]LogWorld: Bringing up level for play took: 0.000668
+[2022.07.01-20.38.33:311][571]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2022.07.01-20.38.33:312][571]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.38.33:313][571]PIE: Server logged in
+[2022.07.01-20.38.33:313][571]PIE: Play in editor total start time 0,21 seconds.
+[2022.07.01-20.38.35:833][851]LogNet: Browse: /Game/Level1
+[2022.07.01-20.38.35:833][851]LogLoad: LoadMap: /Game/Level1
+[2022.07.01-20.38.35:833][851]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.35:834][851]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.38.35:834][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.38.35:907][851]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.38.35:909][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.07.01-20.38.35:911][851]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.35:916][851]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004411s)
+[2022.07.01-20.38.35:916][851]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004554s)
+[2022.07.01-20.38.35:916][851]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2022.07.01-20.38.35:916][851]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.38.35:916][851]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.38.35:916][851]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.38.35:917][851]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2022.07.01-20.38.35:917][851]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.38.35:917][851]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.38.35
+[2022.07.01-20.38.35:917][851]LogWorld: Bringing up level for play took: 0.000563
+[2022.07.01-20.38.35:918][851]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.38.35:918][851]LogLoad: Took 0.085077 seconds to LoadMap(/Game/UEDPIE_0_Level1)
+[2022.07.01-20.38.39:525][278]LogNet: Browse: /Game/Level1
+[2022.07.01-20.38.39:525][278]LogLoad: LoadMap: /Game/Level1
+[2022.07.01-20.38.39:525][278]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.39:526][278]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.38.39:526][278]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.38.39:598][278]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.38.39:600][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.07.01-20.38.39:602][278]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.39:606][278]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004538s)
+[2022.07.01-20.38.39:606][278]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004655s)
+[2022.07.01-20.38.39:606][278]LogAudio: Display: Audio Device (ID: 19) registered with world 'Level1'.
+[2022.07.01-20.38.39:606][278]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.38.39:607][278]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.38.39:607][278]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.38.39:607][278]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2022.07.01-20.38.39:607][278]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.38.39:608][278]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.38.39
+[2022.07.01-20.38.39:608][278]LogWorld: Bringing up level for play took: 0.000579
+[2022.07.01-20.38.39:609][278]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.38.39:609][278]LogLoad: Took 0.084065 seconds to LoadMap(/Game/UEDPIE_0_Level1)
+[2022.07.01-20.38.40:759][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.38.40:759][408]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.38.40:760][408]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.38.40:760][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.38.40:769][408]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.38.40:772][408]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.38.40:802][408]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.38.40:802][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.07.01-20.38.40:804][408]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2022.07.01-20.38.40:809][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.07.01-20.38.40:846][409]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.07.01-20.39.53:891][765]LogDerivedDataCache: C:/Users/medas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.096 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.01-20.42.33:696][846]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.42.33:703][846]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.42.33:703][846]PIE: New page: PIE session: Level1 (2 lug 2022, 00:42:33)
+[2022.07.01-20.42.33:729][846]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.33:734][846]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004599s)
+[2022.07.01-20.42.33:734][846]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004741s)
+[2022.07.01-20.42.33:734][846]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.42.33:734][846]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.42.33:734][846]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.42.33:734][846]LogPlayLevel: PIE: World Init took: (0.000810s)
+[2022.07.01-20.42.33:764][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.07.01-20.42.33:765][846]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.42.33:765][846]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.42.33:765][846]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.42.33:766][846]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.42.33:766][846]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.42.33:766][846]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.42.33:768][846]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.42.33:799][846]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.42.33:799][846]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.42.33:800][846]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.42.33:800][846]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.42.33:800][846]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2022.07.01-20.42.33:800][846]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2022.07.01-20.42.33:802][846]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2022.07.01-20.42.33:802][846]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2022.07.01-20.42.33:802][846]LogInit: FAudioDevice initialized.
+[2022.07.01-20.42.33:802][846]LogAudio: Display: Audio Device (ID: 20) registered with world 'Level1'.
+[2022.07.01-20.42.33:812][846]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.42.33:813][846]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.42.33
+[2022.07.01-20.42.33:813][846]LogWorld: Bringing up level for play took: 0.000654
+[2022.07.01-20.42.33:815][846]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2022.07.01-20.42.33:816][846]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.42.33:816][846]PIE: Server logged in
+[2022.07.01-20.42.33:817][846]PIE: Play in editor total start time 0,114 seconds.
+[2022.07.01-20.42.35:039][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.35:039][976]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.35:039][976]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.42.35:039][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.35:050][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.42.35:053][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.35:081][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.42.35:081][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.07.01-20.42.35:083][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2022.07.01-20.42.35:086][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.35:088][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.07.01-20.42.35:123][977]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.07.01-20.42.37:597][253]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.42.37:603][253]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.42.37:604][253]PIE: New page: PIE session: Level1 (2 lug 2022, 00:42:37)
+[2022.07.01-20.42.37:630][253]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.37:634][253]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004445s)
+[2022.07.01-20.42.37:634][253]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.004567s)
+[2022.07.01-20.42.37:634][253]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.42.37:634][253]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.42.37:635][253]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.42.37:635][253]LogPlayLevel: PIE: World Init took: (0.000773s)
+[2022.07.01-20.42.37:664][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.07.01-20.42.37:665][253]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.42.37:665][253]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.42.37:665][253]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.42.37:666][253]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.42.37:666][253]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.42.37:666][253]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.42.37:668][253]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.42.37:699][253]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.42.37:699][253]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.42.37:699][253]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.42.37:699][253]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.42.37:700][253]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2022.07.01-20.42.37:700][253]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2022.07.01-20.42.37:702][253]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2022.07.01-20.42.37:702][253]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2022.07.01-20.42.37:702][253]LogInit: FAudioDevice initialized.
+[2022.07.01-20.42.37:702][253]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level1'.
+[2022.07.01-20.42.37:715][253]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.42.37:716][253]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.42.37
+[2022.07.01-20.42.37:716][253]LogWorld: Bringing up level for play took: 0.000656
+[2022.07.01-20.42.37:718][253]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.07.01-20.42.37:719][253]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.42.37:719][253]PIE: Server logged in
+[2022.07.01-20.42.37:719][253]PIE: Play in editor total start time 0,116 seconds.
+[2022.07.01-20.42.39:749][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.39:749][483]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.39:749][483]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.42.39:749][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.39:757][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.42.39:761][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.39:790][483]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.42.39:790][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.07.01-20.42.39:791][483]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2022.07.01-20.42.39:794][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.39:796][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.07.01-20.42.39:817][484]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.07.01-20.42.42:347][769]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.07.01-20.42.42:352][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.07.01-20.42.42:352][769]PIE: New page: PIE session: Level1 (2 lug 2022, 00:42:42)
+[2022.07.01-20.42.42:352][769]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.42:357][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004902s)
+[2022.07.01-20.42.42:357][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level1.Level1 to /Game/UEDPIE_0_Level1.Level1 (0.005003s)
+[2022.07.01-20.42.42:357][769]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.07.01-20.42.42:357][769]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.07.01-20.42.42:358][769]LogAIModule: Creating AISystem for world Level1
+[2022.07.01-20.42.42:358][769]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2022.07.01-20.42.42:388][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2022.07.01-20.42.42:389][769]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.07.01-20.42.42:389][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-20.42.42:389][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-20.42.42:390][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-20.42.42:390][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-20.42.42:390][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-20.42.42:392][769]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.07.01-20.42.42:424][769]LogAudioMixer: Display: Using Audio Hardware Device Altoparlanti (2- SADES Audio Device)
+[2022.07.01-20.42.42:424][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-20.42.42:424][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-20.42.42:424][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-20.42.42:424][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2022.07.01-20.42.42:425][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2022.07.01-20.42.42:426][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2022.07.01-20.42.42:426][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2022.07.01-20.42.42:426][769]LogInit: FAudioDevice initialized.
+[2022.07.01-20.42.42:426][769]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level1'.
+[2022.07.01-20.42.42:436][769]LogLoad: Game class is 'GameModeBase'
+[2022.07.01-20.42.42:437][769]LogWorld: Bringing World /Game/UEDPIE_0_Level1.Level1 up for play (max tick rate 0) at 2022.07.01-22.42.42
+[2022.07.01-20.42.42:437][769]LogWorld: Bringing up level for play took: 0.000645
+[2022.07.01-20.42.42:439][769]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2022.07.01-20.42.42:440][769]LogBlueprintUserMessages: [Level1_C_12] Welcome to my first project in Unreal Engine 5!
+[2022.07.01-20.42.42:440][769]PIE: Server logged in
+[2022.07.01-20.42.42:441][769]PIE: Play in editor total start time 0,089 seconds.
+[2022.07.01-20.42.46:439][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.46:439][230]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level1
+[2022.07.01-20.42.46:439][230]LogWorld: UWorld::CleanupWorld for Level1, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-20.42.46:440][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.46:452][230]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.07.01-20.42.46:455][230]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-20.42.46:485][230]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-20.42.46:485][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.07.01-20.42.46:486][230]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2022.07.01-20.42.46:490][230]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-20.42.46:492][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.07.01-20.42.46:525][231]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.07.01-20.42.49:533][558]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.07.01-20.42.49:563][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.07.01-20.42.49:586][558]LogSavePackage: Moving output files for package: /Game/Level1
+[2022.07.01-20.42.49:586][558]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Saved/Level1B32CEE084FD052565524F3A402CF8FB0.tmp' to '../../../../../Documents/Unreal Projects/MarbleRun-UE5-tutorial-assingment/Content/Level1.umap'
+[2022.07.01-20.42.49:608][558]AssetCheck: New page: Asset Save: Level1
+[2022.07.01-20.42.49:609][558]LogContentValidation: Display: Validating World /Game/Level1.Level1
